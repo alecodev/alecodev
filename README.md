@@ -8,6 +8,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecodev&langs_count=5&layout=compact&theme=gotham)
 
+![alecodev Codewars](https://www.codewars.com/users/alecodev/badges/micro)
+
 ##### Languages and Tools
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>](https://www.python.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>](https://www.php.net)
