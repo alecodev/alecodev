@@ -1,4 +1,4 @@
-### Hi, I'm Alejandro 👋
+### Hi 👋, I'm Alejandro
 ##### I'm a software developer with 5+ years of experience in the creation and optimization of platforms
 ##### Mainly, I specialize in Backend development and DevOps
 
@@ -8,25 +8,78 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecodev&langs_count=5&layout=compact&theme=gotham)
 
-![alecodev Codewars](https://www.codewars.com/users/alecodev/badges/micro)
+<p align="left">
+	<a href="https://www.hackerrank.com/alecodev" target="_blank" rel="noreferrer">
+		<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+	</a>
+	<a href="https://www.codewars.com/users/alecodev" target="_blank" rel="noreferrer">
+		<img src="https://www.codewars.com/users/alecodev/badges/micro" alt="Codewars"/>
+	</a>
+</p>
 
 ##### Languages and Tools
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>](https://www.python.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>](https://www.php.net)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>](https://www.linux.org)
-[<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch Linux" width="30" height="30"/>](https://archlinux.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>](https://www.docker.com)
-[<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/>](https://cloud.google.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/>](https://pandas.pydata.org)
-[<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30"/>](https://www.selenium.dev)
-[<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="30" height="30"/>](https://mariadb.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>](https://www.mysql.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/>](https://www.oracle.com)
-[<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/>](https://www.microsoft.com/en-us/sql-server)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/>](https://www.nginx.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>](https://www.w3.org/html)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>](https://www.w3schools.com/css)
+<p align="left">
+	<a href="https://www.python.org" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+	</a>
+	<a href="https://www.php.net" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
+	</a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+	</a>
+	<a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/>
+	</a>
+	<a href="https://www.linux.org" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
+	</a>
+	<a href="https://archlinux.org" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch Linux" width="30" height="30"/>
+	</a>
+	<a href="https://www.docker.com" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
+	</a>
+	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/>
+	</a>
+	<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/>
+	</a>
+	<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/>
+	</a>
+	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30"/>
+	</a>
+	<a href="https://mariadb.org" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="30" height="30"/>
+	</a>
+	<a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
+	</a>
+	<a href="https://www.oracle.com" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/>
+	</a>
+	<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+		<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/>
+	</a>
+	<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/>
+	</a>
+	<a href="https://www.w3.org/html" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
+	</a>
+	<a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
+	</a>
+	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
+	</a>
+	<a href="https://git-scm.com" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
+	</a>
+</p>
 
 <br>
 
