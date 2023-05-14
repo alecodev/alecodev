@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Alejandro
-##### I'm a software developer with 5+ years of experience in the creation and optimization of platforms
+##### I'm a software developer with 6+ years of experience in the creation and optimization of platforms
 ##### Mainly, I specialize in Backend development and DevOps
 
 ##### 🧠 *Currently I'm learning Machine Learning* 🤖
